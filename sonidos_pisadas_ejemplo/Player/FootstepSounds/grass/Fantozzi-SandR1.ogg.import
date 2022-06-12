@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Fantozzi-SandR1.ogg-70a72fbef401d92c7a44c2322dff9157.oggstr"
+
+[deps]
+
+source_file="res://Player/FootstepSounds/grass/Fantozzi-SandR1.ogg"
+dest_files=[ "res://.import/Fantozzi-SandR1.ogg-70a72fbef401d92c7a44c2322dff9157.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0

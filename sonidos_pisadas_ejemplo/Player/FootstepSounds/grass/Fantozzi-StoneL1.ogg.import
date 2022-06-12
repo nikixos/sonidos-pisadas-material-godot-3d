@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Fantozzi-StoneL1.ogg-ba6495f65e38a4fa1ecb672d966477da.oggstr"
+
+[deps]
+
+source_file="res://Player/FootstepSounds/grass/Fantozzi-StoneL1.ogg"
+dest_files=[ "res://.import/Fantozzi-StoneL1.ogg-ba6495f65e38a4fa1ecb672d966477da.oggstr" ]
+
+[params]
+
+loop=false
+loop_offset=0
